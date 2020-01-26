@@ -7,3 +7,9 @@
 # Google Hash Code Practice Problem in Python
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/tahirramzan/GoogleHashCode/master/2020-01-26.png)
+
+
+##### MIT License
+##### Copyright (c) 2020 Tahir Ramzan
+
+
